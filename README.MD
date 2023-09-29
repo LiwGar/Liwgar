@@ -1,8 +1,8 @@
 <h1 align="left" color="orange">👋 Hi, I'm Wil Garcia</h1>
 <p align="justify">I am a front-end developer based in Colombia, starting in the software industry. I am practicing on small projects with a
 development environment based on JavaScript and React.JS. 
-I am building my expertise in web application development and design using tools like Git and
-GitHub. In addition, I like to work in a team and share information about learned topics.
+I am developing my expertise in web application development and design using tools like Git and
+GitHub. In addition, I am excited to collaborate on challenging projects and work alongside talented teams to achieve outstanding results.
 I like and am passionate about web development. I am currently a student at the Platzi School of Web Development. 
 I am completing the full stack path with JavaScript.</p>
 
