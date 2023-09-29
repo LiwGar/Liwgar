@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hi, I'm Wil Garcia</h1>
-<h6 align="justify">I am fascinated by the world of technology and cryptocurrencies. I am passionate about web development, currently, I am a student at the Platzi Web Development School. I'm finishing the Full Stack Developer path with JavaScript.</h6>
+<p align="justify">I am fascinated by the world of technology and cryptocurrencies. I am passionate about web development, currently, I am a student at the Platzi Web Development School. I'm finishing the Full Stack Developer path with JavaScript.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liwgar&label=Profile%20views&color=0e75b6&style=flat" alt="liwgar" /> </p>
 
