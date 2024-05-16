@@ -1,5 +1,14 @@
 <h1 align="left" color="orange">👋 Hi, I'm Wil Garcia</h1>
-<p align="left" >I am a front-end developer based in Colombia, starting in the software industry. Currently, working on personal projects with a development environment based on JavaScript and React.JS.  Work to improve my knowledge in web application development and design using tools such as Git and GitHub. In addition, I am excited to collaborate on challenging projects and  willing to continue learning about trends and innovations in the development area.</p>
+<p align="left" >"I'm a passionate web developer with experience in front-end development. 
+                With a strong background in web technologies like JavaScript with React, 
+                HTML, CSS, and Tailwind CSS, I've worked on projects that have allowed me 
+                to develop skills in designing and building attractive and functional user 
+                interfaces. In addition to my technical skills, I'm a proactive and creative 
+                collaborator, capable of working in teams to achieve common goals. I love 
+                keeping up with the latest trends and technologies in the world of web 
+                development, and I'm constantly seeking opportunities to learn and grow 
+                professionally. My goal is to continue growing as a developer and contribute 
+                significantly to innovative projects"</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liwgar&label=Profile%20views&color=0e75b6&style=flat" alt="liwgar" /> </p>
 
