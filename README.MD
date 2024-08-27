@@ -3,12 +3,7 @@
                 With a strong background in web technologies like JavaScript with React, 
                 HTML, CSS, and Tailwind CSS, I've worked on projects that have allowed me 
                 to develop skills in designing and building attractive and functional user 
-                interfaces. In addition to my technical skills, I'm a proactive and creative 
-                collaborator, capable of working in teams to achieve common goals. I love 
-                keeping up with the latest trends and technologies in the world of web 
-                development, and I'm constantly seeking opportunities to learn and grow 
-                professionally. My goal is to continue growing as a developer and contribute 
-                significantly to innovative projects"</p>
+                interfaces."</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liwgar&label=Profile%20views&color=0e75b6&style=flat" alt="liwgar" /> </p>
 
