@@ -7,8 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liwgar&label=Profile%20views&color=0e75b6&style=flat" alt="liwgar" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Developer path with JavaScript.**
-
 - 👨‍💻 All of my projects are available at [https://github.com/LiwGar](https://github.com/LiwGar)
 
 
