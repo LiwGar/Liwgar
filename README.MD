@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Wil Garcia</h1>
-<h3 align="center">"I'm a passionate web developer with experience in front-end development. With a strong background in web technologies like JavaScript with React, HTML, CSS, and Tailwind CSS, I've worked on projects that have allowed me to develop skills in designing and building attractive and functional user interfaces."</h3>
+<h3 align="center">"Frontend Developer and Telecommunications Technologist with experience in JavaScript, React.js, and Node.js, specializing in creating efficient and modern web applications. I excel in both individual and team projects, adapting to any environment while applying leadership and analytical skills. I've worked with technologies like RESTful APIs, Docker, and PostgreSQL, constantly seeking to learn and contribute to innovative projects."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liwgar&label=Profile%20views&color=0e75b6&style=flat" alt="liwgar" /> </p>
 
